@@ -18,9 +18,9 @@
 
 - Install a .NET IDE (VS Code with C# Plugin, Visual Studio)
 - Install .NET 7 SDK
-- Unzip the repository and `cd` into the 'PlaywrightTests' folder
+- Unzip the repository and `cd` into the 'KneatTestAutomation' folder
 
-> cd 'PlaywrightTests'
+> cd 'KneatTestAutomation'
 
 - Install the dependencies.
 
